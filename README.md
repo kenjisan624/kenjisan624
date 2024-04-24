@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi 👋 I'm Kenji
+<p>Currently Working on my Bachelors in Software Development</p>
 <!--
 **kenjisan624/kenjisan624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
