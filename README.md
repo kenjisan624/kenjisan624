@@ -2,8 +2,7 @@
 
 ### Hi 👋 I'm Kenji Nakanishi
 <p>Currently Working on my Bachelors in Software Development</p>
-<!--
-**kenjisan624/kenjisan624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 School you attend: Valencia College 
@@ -23,7 +22,7 @@ Tech with Ken [Tiktok] (@kenjinakanishi24)
 
 
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
