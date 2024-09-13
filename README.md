@@ -16,7 +16,7 @@ Any other information that helps someone get to know you!: I really like buildin
 
 Please follow me on the following social media: 
 Kenji Nakanishi [Linkedin] (https://www.linkedin.com/in/kenjinakanishi/)
-!(linkedin) [/assets/images/shared image.png]
+<img src="Images/shared image.png" alt="Linkedin">
 Tech with Ken [Tiktok] (@kenjinakanishi24)
 !(Tiktok)[/assets/images/media.jpeg]
 
