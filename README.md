@@ -19,7 +19,7 @@ Any other information that helps someone get to know you!: I really like doing n
 Please follow me on the following social media: 
 
 Kenji Nakanishi [Linkedin] 
-<img src="Images/shared image.png" alt="Linkedin" width="200px">
+<img src="Images/shared image.png" alt="Linkedin" width="200px" style="display:block">
 (https://www.linkedin.com/in/kenjinakanishi/)
 
 
