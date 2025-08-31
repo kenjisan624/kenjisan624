@@ -25,7 +25,7 @@ Kenji Nakanishi [Linkedin]
 
 
 
-Tech with Ken [Tiktok] (@kenjinakanishi24)
+Tech with Ken [Tiktok](https://www.tiktok.com/@kenjinakanishi24)
 
 <img src="Images/media.jpeg" alt="Tech with Ken(Tiktok)" width="250">
 
