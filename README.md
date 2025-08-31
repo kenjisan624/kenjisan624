@@ -26,7 +26,7 @@ Kenji Nakanishi [Linkedin]
 
 
 Tech with Ken [Tiktok] (@kenjinakanishi24)
-![Tech with Ken (Tiktok)](Images/media.jpeg)
+
 <img src="Images/media.jpeg" alt="Tech with Ken(Tiktok)" width="180">
 
 You can find my resume and my website here!  [LinkEase] (https://kenjisan624.github.io/Link-Ease/)
