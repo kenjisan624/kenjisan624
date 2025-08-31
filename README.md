@@ -8,11 +8,12 @@
 School you attend: Valencia College 
 Favorite class so far: C++ programming 
 **Hometown: Orlando, Florida**
-**1st computer owned: Windows laptop **
 
-Contact info kenjinakanishi24@gmail.com /  kcoronado3@valenciacollege.edu
-Favorite language/tech/etc:  C++, HTML and CSS.
-Any other information that helps someone get to know you!: I really like building new projects, while currently pursing my Bachelor degree in Computer Science, I am also studying Robotics and Semiconductor technician program, I would ike to work in tech industry to enhance our live with automation and AI. 
+**1st computer owned: Samsung Laptop**
+
+Contact info kenjinakanishi24@gmail.com /  kcoronado3@mail.valenciacollege.edu
+Favorite language:  Java, HTML, and CSS.
+Any other information that helps someone get to know you!: I really like doing new projects, while currently pursing my Bachelor degree in Computer Science, I am did study Robotics and Semiconductor technician program, In the long term. I would ike to work in tech industry to enhance our live with automation using AI. 
 
 Please follow me on the following social media: 
 Kenji Nakanishi [Linkedin] (https://www.linkedin.com/in/kenjinakanishi/)
@@ -22,6 +23,7 @@ Kenji Nakanishi [Linkedin] (https://www.linkedin.com/in/kenjinakanishi/)
 Tech with Ken [Tiktok] (@kenjinakanishi24)
 !(Tiktok)[/assets/images/media.jpeg]
 
+You can find my resume and my website here!  [LinkEase] (https://kenjisan624.github.io/Link-Ease/)
 
 
 <!--
