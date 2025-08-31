@@ -32,7 +32,7 @@ Tech with Ken [Tiktok] (@kenjinakanishi24)
 You can find my website & Resume here!  
 [Website LinkEase](https://kenjisan624.github.io/Link-Ease/)
 
-[Download my resume (PDF)](assets/resume.pdf) 
+[Download my resume (PDF)](resume.pdf) 
 
 <!--
 Here are some ideas to get you started:
