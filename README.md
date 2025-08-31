@@ -18,7 +18,7 @@ Any other information that helps someone get to know you!: I really like doing n
 
 Please follow me on the following social media: 
 
-<img src="Images/shared image.png" alt="Linkedin" width="200px" style="display:block">
+<img src="Images/shared image.png" alt="Linkedin" width="200px">
 Kenji Nakanishi [Linkedin] 
 
 (https://www.linkedin.com/in/kenjinakanishi/)
@@ -27,6 +27,7 @@ Kenji Nakanishi [Linkedin]
 
 Tech with Ken [Tiktok] (@kenjinakanishi24)
 ![Tech with Ken (Tiktok)](Images/media.jpeg)
+<img src="Images/media.jpeg" alt="Tech with Ken(Tiktok)" width="180">
 
 You can find my resume and my website here!  [LinkEase] (https://kenjisan624.github.io/Link-Ease/)
 
