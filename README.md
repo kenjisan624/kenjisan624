@@ -1,6 +1,6 @@
 
 
-### Hi 👋 I'm Kenji Nakanishi
+### Hi 👋 I'm Kenji Nakanishi👋👋👋👋
 <p>Currently Working on my Bachelors in Software Development</p>
 
 
