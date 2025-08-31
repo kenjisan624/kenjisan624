@@ -30,7 +30,8 @@ Tech with Ken [Tiktok] (@kenjinakanishi24)
 <img src="Images/media.jpeg" alt="Tech with Ken(Tiktok)" width="250">
 
 You can find my website & Resume here!
-[Website LinkEase](https://kenjisan624.github.io/Link-Ease/)
+[Website LinkEase](https://kenjisan624.github.io/Link-Ease/) 
+
 [Download my resume (PDF)](resume.pdf) 
 
 <!--
