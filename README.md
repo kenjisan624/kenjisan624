@@ -8,6 +8,7 @@
 School you attend: Valencia College 
 Favorite class so far: C++ programming 
 **Hometown: Orlando, Florida**
+
 ***1st computer owned: Windows laptop ***
 
 Contact info kenjinakanishi24@gmail.com /  kcoronado3@valenciacollege.edu
