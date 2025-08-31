@@ -15,10 +15,13 @@ Contact info kenjinakanishi24@gmail.com /  kcoronado3@mail.valenciacollege.edu
 Favorite language:  Java, HTML, and CSS.
 Any other information that helps someone get to know you!: I really like doing new projects, while currently pursing my Bachelor degree in Computer Science, I am did study Robotics and Semiconductor technician program, In the long term. I would ike to work in tech industry to enhance our live with automation using AI. 
 
+
 Please follow me on the following social media: 
 
 Kenji Nakanishi [Linkedin] (https://www.linkedin.com/in/kenjinakanishi/)
 <img src="Images/shared image.png" alt="Linkedin" width="200px">
+
+
 
 
 Tech with Ken [Tiktok] (@kenjinakanishi24)
